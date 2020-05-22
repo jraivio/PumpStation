@@ -2,7 +2,7 @@
 // Timon pumppuasema
 
 // Yksilöivät tiedot
-char number[]="+358405882515";
+char number[]="";
 String Stationname = "Pumppu 2";
 float chargingVolts = 13.50;
 float AlternatorDpinVolts = 1.00;
